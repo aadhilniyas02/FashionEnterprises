@@ -1,4 +1,5 @@
-# Fashion Brand Landing Page
+# Fashion Enterprises
+
 
 This is a premium, modern landing page for a garment/apparel brand, built with:
 - React (Vite)
