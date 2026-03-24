@@ -13,7 +13,7 @@ const sections = [
     { id: 'history', label: 'History' },
     { id: 'services', label: 'Services' },
     { id: 'process', label: 'Process' },
-    { id: 'gallery', label: 'Gallery' },
+    //{ id: 'gallery', label: 'Gallery' },
     { id: 'contact', label: 'Contact' },
 ];
 
