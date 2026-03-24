@@ -166,7 +166,7 @@ export default function LandingPage() {
                 <div
                     className="absolute inset-0 bg-cover bg-center bg-no-repeat"
                     style={{
-                        backgroundImage: "url('https://images.unsplash.com/photo-1441986300917-64674bd600d8?q=80&w=2070&auto=format&fit=crop')",
+                        backgroundImage: "url('https://plus.unsplash.com/premium_photo-1682142721713-2b076bc2b29b?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D')",
                         backgroundAttachment: 'fixed'
                     }}
                 />
@@ -281,7 +281,7 @@ export default function LandingPage() {
                         >
                             <div className="absolute -inset-4 bg-red-100 rounded-3xl -z-10 rotate-3"></div>
                             <img
-                                src="https://images.unsplash.com/photo-1537832816519-689ad163238b?q=80&w=2059&auto=format&fit=crop"
+                                src="https://images.unsplash.com/photo-1772351721253-1008627c8c50?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                                 alt="Fashion Workshop"
                                 className="rounded-2xl shadow-xl w-full h-[600px] object-cover"
                             />
@@ -355,12 +355,12 @@ export default function LandingPage() {
 
                     <div className="grid md:grid-cols-3 gap-8">
                         {[
-                            { title: "Custom Tailoring", icon: ShoppingBag, img: "https://images.unsplash.com/photo-1525507119028-ed4c629a60a3?q=80&w=2075&auto=format&fit=crop" },
-                            { title: "Bulk Manufacturing", icon: Layers, img: "https://images.unsplash.com/photo-1620799140408-ed5341cd2431?q=80&w=2072&auto=format&fit=crop" },
-                            { title: "Garment Production", icon: Scissors, img: "https://images.unsplash.com/photo-1504198458649-3128b932f49e?q=80&w=2069&auto=format&fit=crop" },
-                            { title: "Private Labeling", icon: Award, img: "https://images.unsplash.com/photo-1589810635657-232948472d98?q=80&w=2070&auto=format&fit=crop" },
-                            { title: "Uniform Tailoring", icon: Zap, img: "https://images.unsplash.com/photo-1588667823321-c167d5ae134b?q=80&w=2070&auto=format&fit=crop" },
-                            { title: "Quality Finishing", icon: Check, img: "https://images.unsplash.com/photo-1596328639259-71286c75a0e5?q=80&w=2070&auto=format&fit=crop" }
+                            { title: "Custom Tailoring", icon: ShoppingBag, img: "https://images.unsplash.com/photo-1625479144604-ae69462778b7?q=80&w=776&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" },
+                            { title: "Bulk Manufacturing", icon: Layers, img: "https://images.unsplash.com/photo-1657651315305-a1b608182927?q=80&w=1333&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" },
+                            { title: "Garment Production", icon: Scissors, img: "https://images.unsplash.com/photo-1673201230644-10baaee14e6b?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" },
+                            { title: "Private Labeling", icon: Award, img: "https://plus.unsplash.com/premium_photo-1673502751757-cfdc48a4904d?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" },
+                            { title: "Fabric Sourcing", icon: Zap, img: "https://images.unsplash.com/photo-1633655442427-91c6b69561b1?q=80&w=1176&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" },
+                            { title: "Quality Finishing", icon: Check, img: "https://plus.unsplash.com/premium_photo-1673125287084-e90996bad505?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDV8fHxlbnwwfHx8fHw%3D" }
                         ].map((service, idx) => (
                             <motion.div
                                 key={idx}
@@ -444,7 +444,7 @@ export default function LandingPage() {
                             className="w-full md:w-1/2"
                         >
                             <img
-                                src="https://images.unsplash.com/photo-1558769132-cb1aea458c5e?q=80&w=2074&auto=format&fit=crop"
+                                src="https://images.unsplash.com/photo-1773525912457-6a7278efb9e4?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                                 alt="Fabric Detail"
                                 className="rounded-2xl shadow-2xl skew-y-3 hover:skew-y-0 transition-transform duration-700"
                             />
@@ -485,7 +485,7 @@ export default function LandingPage() {
                 </div>
             </section>
 
-            {/* --- GALLERY (Masonry-ish) --- */}
+            {/* --- GALLERY (Masonry-ish) 
             <section id="gallery" className="py-20 bg-gray-50">
                 <div className="container mx-auto px-4 md:px-8">
                     <div className="mb-12 flex justify-between items-end">
@@ -524,7 +524,7 @@ export default function LandingPage() {
                         ))}
                     </div>
                 </div>
-            </section>
+            </section> --- */}
 
             {/* --- TESTIMONIALS --- */}
             <section className="py-20 bg-white">
