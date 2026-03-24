@@ -599,7 +599,7 @@ export default function LandingPage() {
 
                         <div className="w-full md:w-1/2">
                             <h2 className="text-4xl font-bold mb-6">Let's Create Something <span className="text-red-600">Extraordinary</span></h2>
-                            <p className="text-gray-300 mb-10">Ready to start your clothing branc ? Get in touch with us for a consultation or quote.</p>
+                            <p className="text-gray-300 mb-10">Ready to start your clothing brand ? Get in touch with us for a consultation or quote.</p>
 
                             <div className="space-y-6">
                                 <div className="flex items-center gap-4">
