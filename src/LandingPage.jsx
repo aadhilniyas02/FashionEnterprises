@@ -355,7 +355,7 @@ export default function LandingPage() {
 
                     <div className="grid md:grid-cols-3 gap-8">
                         {[
-                            { title: "Custom Tailoring", icon: ShoppingBag, img: "https://images.unsplash.com/photo-1625479144604-ae69462778b7?q=80&w=776&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" },
+                            { title: "Custom Tailoring", icon: ShoppingBag, img: "https://plus.unsplash.com/premium_photo-1682145967332-b9c985196905?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" },
                             { title: "Bulk Manufacturing", icon: Layers, img: "https://images.unsplash.com/photo-1657651315305-a1b608182927?q=80&w=1333&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" },
                             { title: "Garment Production", icon: Scissors, img: "https://images.unsplash.com/photo-1673201230644-10baaee14e6b?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" },
                             { title: "Private Labeling", icon: Award, img: "https://plus.unsplash.com/premium_photo-1673502751757-cfdc48a4904d?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" },
