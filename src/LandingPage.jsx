@@ -250,7 +250,7 @@ export default function LandingPage() {
                                 Founded in 2016, Fashion Enterprises began as a tailoring business dedicated to delivering high-quality custom garments. Over the years, we expanded our expertise by importing premium fabrics and producing garments that meet both local and international standards.
                             </motion.p>
                             <motion.p variants={itemVariants} className="text-gray-600 text-lg mb-8 leading-relaxed">
-                                Today, we specialize in tailoring, garment production, and exporting apparel while maintaining the traditional craftsmanship that defines our brand. Our focus is simple - quality materials, precise tailoring, and designs that reflect our customers’ style and vision.
+                                Today, we specialize in tailoring, garment production while maintaining the traditional craftsmanship that defines our brand. Our focus is simple - quality materials, precise tailoring, and designs that reflect our customers’ style and vision.
                             </motion.p>
 
                             <div className="grid grid-cols-1 sm:grid-cols-3 gap-6">
@@ -319,8 +319,8 @@ export default function LandingPage() {
                             {[
                                 { year: '2016', title: 'Established', desc: 'Started as a tailoring business focused on custom garments and quality craftsmanship.' },
                                 { year: '2019', title: 'Expansion', desc: 'Expanded operations to include importing premium fabrics for tailoring and garment production.' },
-                                { year: '2021', title: 'Garment Production Growth', desc: 'Increased production capacity to serve more customers and businesses.' },
-                                { year: '2024', title: 'Export Development', desc: 'Started exploring international markets and exporting garments to overseas customers.' },
+                                { year: '2022', title: 'Garment Production Growth', desc: 'Increased production capacity to serve more customers and businesses.' },
+                                { year: '2025', title: 'Brand Identity Launch', desc: 'Established a distinct brand identity andintroduced a signature collection line.' },
                             ].map((item, idx) => (
                                 <motion.div
                                     key={idx}
